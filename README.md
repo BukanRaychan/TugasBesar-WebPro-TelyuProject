@@ -1,7 +1,5 @@
 # Get Started (Lakukan secara linear)
 
-## Frontend Initialization
-
 ## Backend Initialization
 - "Create Folder Backend"
 - cd backend

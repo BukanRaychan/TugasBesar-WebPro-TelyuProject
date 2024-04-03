@@ -11,5 +11,6 @@
 ## Frontend Initialization
 - npx create-react-app "<name folder>"
 - cd frontend
-- npm i react-router-dom axios tailwind
+- npm i react-router-dom axios tailwindcss
+- npx tailwindcss init
 - npm start
